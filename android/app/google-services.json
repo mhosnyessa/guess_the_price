@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "734856045565",
+    "project_id": "guess-the-price-8c3c0",
+    "storage_bucket": "guess-the-price-8c3c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734856045565:android:4458653f40b4e509caef94",
+        "android_client_info": {
+          "package_name": "com.example.guess_the_price"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734856045565-2bsld9e3t2v5afpf8dhh5ohe88aqmkf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guess_the_price",
+            "certificate_hash": "6ecba0cda0e614a3dcdff2788dac190fcc37d447"
+          }
+        },
+        {
+          "client_id": "734856045565-5icavh6s7ivsnfdop422nduk2at3gjck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACMmXiqti-5gaN2yj6ISH6TYMKU655mJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734856045565-5icavh6s7ivsnfdop422nduk2at3gjck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
