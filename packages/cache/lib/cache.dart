@@ -3,6 +3,7 @@ library cache;
 /// {@template cache_client}
 /// An in-memory cache client.
 /// {@endtemplate}
+/// how does this store things in the actual mobile cache?
 class CacheClient {
   /// {@macro cache_client}
   CacheClient() : _cache = <String, Object>{};
